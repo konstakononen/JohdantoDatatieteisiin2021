@@ -1,0 +1,579 @@
+pelaaja_id,Pelaaja_Nimi,Pelaaja_Joukkue,Pelaaja_Pelipaikka,Pelaaja_Syntynyt,Pelaaja_Kansalaisuus,Pelaaja_Syntymäpaikka,Pelaaja_Ikä,Pelaaja_Pituus,Pelaaja_Paino,Pelaaja_Maila
+24540847,"Kontiola, Petri",HPK,Keskushyökkääjä,4.10.1984,FIN,"Seinäjoki, FIN",36,182,90,R
+60453964,"Audette, Daniel",Lukko,Keskushyökkääjä,5.6.1996,CAN,"Blainville, QC, CAN",24,175,77,L
+60455488,"Kestner, Josh",TPS,Vasen laitahyökkääjä,8.11.1993,USA,"Huntsville, AL, USA",27,185,79,R
+23770029,"Oksanen, Ahti",KooKoo,Vasen laitahyökkääjä,10.3.1993,FIN,"Espoo, FIN",28,192,97,L
+60348444,"Press, Robin",Lukko,Oikea puolustaja,21.12.1994,SWE,"Uppsala, SWE",26,192,95,R
+24290689,"Björninen, Hannes",Pelicans,Keskushyökkääjä,19.10.1995,FIN,"Lahti, FIN",25,185,86,L
+23351053,"Suomi, Eemeli",Ilves,Vasen laitahyökkääjä,4.12.1995,FIN,"Tampere, FIN",25,177,84,L
+60476674,"Wännström, Sebastian",Ässät,Oikea laitahyökkääjä,3.3.1991,SWE,"Gävle, SWE",30,185,86,R
+27746619,"Levtchi, Anton",Tappara,Oikea laitahyökkääjä,28.11.1995,FIN,"Varkaus, FIN",25,182,84,L
+23889127,"Koivistoinen, Eetu",Lukko,Keskushyökkääjä,13.7.1995,FIN,"Tampere, FIN",25,189,86,L
+60476677,"Meyer, Nicolai",Ässät,Vasen laitahyökkääjä,21.7.1993,DEN,"Frederikshavn, DEN",27,183,82,L
+100027950,"Kunyk, Cody",Kärpät,Keskushyökkääjä,20.5.1990,CAN,"Sherwook Park, AL, CAN",30,180,88,L
+34601569,"Pärssinen, Juuso",TPS,Keskushyökkääjä,1.2.2001,FIN,"Hämeenlinna, FIN",20,190,90,L
+24622477,"Kuusela, Kristian",Tappara,Vasen laitahyökkääjä,19.2.1983,FIN,"Seinäjoki, FIN",38,175,84,R
+33373610,"Rooba, Robert",JYP,Vasen laitahyökkääjä,2.9.1993,EST,"Tallinna, EST",27,191,94,L
+29859533,"Puustinen, Valtteri",HPK,Oikea laitahyökkääjä,4.6.1999,FIN,"Kuopio, FIN",21,176,81,R
+40315414,"Zaborsky, Tomas",SaiPa,Vasen laitahyökkääjä,14.11.1987,SVK,"Trencin, SVK",33,181,91,L
+27647886,"Turkulainen, Jerry",JYP,Oikea laitahyökkääjä,22.9.1998,FIN,"Mikkeli, FIN",22,170,72,R
+23806498,"Eronen, Elmeri",HPK,Oikea puolustaja,27.1.1995,FIN,"Turku, FIN",26,176,86,R
+60453523,"Skalicky, Pavol",Lukko,Oikea laitahyökkääjä,9.10.1995,SVK,"Gelnica, SVK",25,195,94,R
+30735248,"Maccelli, Matias",Ilves,Vasen laitahyökkääjä,14.10.2000,FIN,"Turku, FIN",20,180,75,L
+60351426,"Stenqvist, Jakob",Ässät,Oikea puolustaja,17.3.1998,SWE,"Mora, SWE",23,189,81,R
+40005897,"Pajuniemi, Lauri",TPS,Vasen laitahyökkääjä,12.9.1999,FIN,"Tampere, FIN",21,180,83,R
+60462332,"Cerveny, Rudolf",Pelicans,Vasen laitahyökkääjä,6.8.1989,CZE,"Ceske Budejovice, CZE",31,182,85,L
+60342516,"Galló, Vilmos",KooKoo,Oikea laitahyökkääjä,31.7.1996,HUN,"Budapest, HUN",24,183,90,L
+60455471,"Ishakov, Ruslan",TPS,Keskushyökkääjä,22.7.2000,RUS,"Moscow, RUS",20,173,77,L
+27023853,"Saarela, Aleksi",Lukko,Vasen laitahyökkääjä,7.1.1997,FIN,"Helsinki, FIN",24,180,89,L
+29690417,"Innala, Jere",HPK,Vasen laitahyökkääjä,17.3.1998,FIN,"Hämeenlinna, FIN",23,175,83,L
+21742871,"Ikonen, Juuso",HPK,Keskushyökkääjä,3.1.1995,FIN,"Espoo, FIN",26,174,78,R
+40311015,"Lasch, Ryan",Pelicans,Oikea laitahyökkääjä,22.1.1987,USA,"Lake Forest, CA, USA",34,170,82,L
+60348367,"Platzer, Kyle",KooKoo,Keskushyökkääjä,4.3.1995,CAN,"Waterloo, ON, CAN",26,181,80,R
+28262723,"Virta, Patrik",Tappara,Keskushyökkääjä,6.3.1996,FIN,"Hämeenlinna, FIN",25,177,82,R
+28576383,"Kantola, Kai",KalPa,Oikea laitahyökkääjä,11.9.1987,FIN,"Toronto, ON, CAN",33,187,87,R
+29991637,"Nurmi, Markus",TPS,Oikea laitahyökkääjä,29.6.1998,FIN,"Turku, FIN",22,195,89,R
+23139495,"Saarijärvi, Vili",Lukko,Oikea puolustaja,15.5.1997,FIN,"Rovaniemi, FIN",23,179,78,R
+23165391,"Sallinen, Jere",HIFK,Oikea laitahyökkääjä,26.10.1990,FIN,"Espoo, FIN",30,188,90,L
+24650025,"Kangasniemi, Iikka",Pelicans,Vasen laitahyökkääjä,18.2.1995,FIN,"Oulu, FIN",26,170,70,L
+60455677,"Broadhurst, Alex",HIFK,Keskushyökkääjä,7.3.1993,USA,"New Lenox, IL, USA",28,180,83,L
+25013577,"Pyörälä, Mika",Kärpät,Vasen laitahyökkääjä,13.7.1981,FIN,"Oulu, FIN",39,182,81,L
+23505155,"Tuppurainen, Jani",JYP,Vasen laitahyökkääjä,30.3.1980,FIN,"Oulu, FIN",41,180,80,L
+21499603,"Hakulinen, Anrei",Lukko,Vasen laitahyökkääjä,8.2.1990,FIN,"Turku, FIN",31,188,90,L
+25139587,"Repo, Sebastian",Lukko,Oikea laitahyökkääjä,23.6.1996,FIN,"Lahti, FIN",24,189,94,R
+31854445,"Tanus, Kristian",Tappara,Keskushyökkääjä,17.8.2000,FIN,"Tampere, FIN",20,172,72,L
+34250949,"Sebok, Balázs",KalPa,Keskushyökkääjä,14.12.1994,HUN,"Budapest, HUN",26,186,88,L
+28705727,"Honka, Anttoni",JYP,Oikea puolustaja,5.10.2000,FIN,"Jyväskylä, FIN",20,178,80,R
+23441604,"Tiivola, Peter",Ässät,Keskushyökkääjä,5.9.1993,FIN,"Helsinki, FIN",27,192,93,L
+60454974,"Stålberg, Sebastian",Sport,Oikea laitahyökkääjä,6.3.1990,SWE,"Lerum, SWE",31,185,84,R
+22393300,"Leskinen, Ville",HIFK,Oikea laitahyökkääjä,18.2.1994,FIN,"Oulu, FIN",27,186,88,R
+22842712,"Peltola, Jukka",Tappara,Oikea laitahyökkääjä,26.8.1987,FIN,"Tampere, FIN",33,184,82,L
+24466950,"Immonen, Jarkko",JYP,Keskushyökkääjä,19.4.1982,FIN,"Rantasalmi, FIN",39,181,92,R
+24230814,"Paukku, Jesse",Sport,Vasen laitahyökkääjä,9.5.1994,FIN,"Joensuu, FIN",26,182,85,L
+23075106,"Roine, Miika",Pelicans,Vasen laitahyökkääjä,8.12.1991,FIN,"Jyväskylä, FIN",29,180,80,L
+24727725,"Lajunen, Ville",TPS,Oikea puolustaja,8.3.1988,FIN,"Helsinki, FIN",33,184,84,R
+60346723,"Jakovenko, Aleksandr",Jukurit,Vasen puolustaja,22.2.1998,RUS,"Karaganda, KAZ",23,177,78,L
+22148966,"Kousa, Mikko",HIFK,Oikea puolustaja,11.5.1988,FIN,"Lahti, FIN",32,177,82,R
+25153974,"Ruotsalainen, Arttu",Ilves,Keskushyökkääjä,29.10.1997,FIN,"Oulu, FIN",23,173,82,L
+26590031,"Meskanen, Ville",Ilves,Oikea laitahyökkääjä,2.10.1995,FIN,"Tampere, FIN",25,185,82,R
+29798827,"Merelä, Waltteri",Pelicans,Oikea laitahyökkääjä,6.7.1998,FIN,"Tampere, FIN",22,188,89,R
+31046431,"Nousiainen, Kim",KalPa,Oikea puolustaja,14.11.2000,FIN,"Leppävirta, FIN",20,175,81,L
+24242404,"Aaltonen, Juhamatti",Kärpät,Oikea laitahyökkääjä,4.6.1985,FIN,"Ii, FIN",35,184,89,R
+28967947,"Ratinen, Samuli",KooKoo,Oikea laitahyökkääjä,13.4.1998,FIN,"Saarijärvi, FIN",23,183,91,L
+60347997,"Dyk, Sebastian",HIFK,Oikea laitahyökkääjä,24.9.1992,SWE,"Malmö, SWE",28,183,82,R
+29783858,"Björkqvist, Kasper",KooKoo,Vasen laitahyökkääjä,10.7.1997,FIN,"Espoo, FIN",23,187,96,L
+24725109,"Lappalainen, Lasse",KalPa,Vasen puolustaja,7.6.1989,FIN,"Kuopio, FIN",31,190,93,L
+24474272,"Jokinen, Jussi",Kärpät,Vasen laitahyökkääjä,1.4.1983,FIN,"Kalajoki, FIN",38,183,87,L
+60455240,"Smejkal, Jiri",Tappara,Vasen laitahyökkääjä,5.11.1996,CZE,"Ceske Budejovice, CZE",24,192,92,L
+30439447,"Rindell, Axel",Jukurit,Oikea puolustaja,23.4.2000,FIN,"Helsinki, FIN",21,180,79,R
+21292664,"Ainali, Aleksi",KooKoo,Keskushyökkääjä,12.4.1995,FIN,"Vihti, FIN",26,181,85,L
+60408300,"Graham, Jesse",KalPa,Oikea puolustaja,13.5.1994,CAN,"Oshawa, ON, CAN",26,183,84,R
+60466216,"Rohdin, Joachim",Jukurit,Vasen laitahyökkääjä,3.10.1991,SWE,"Gävle, SWE",29,184,92,R
+31261902,"Lundell, Anton",HIFK,Keskushyökkääjä,3.10.2001,FIN,"Espoo, FIN",19,185,86,L
+32464892,"Järventie, Roby",Ilves,Oikea laitahyökkääjä,8.8.2002,FIN,"Tampere, FIN",18,191,90,L
+21974869,"Kemiläinen, Valtteri",Tappara,Oikea puolustaja,16.12.1991,FIN,"Jyväskylä, FIN",29,184,87,R
+21345676,"Asplund, Turo",Sport,Keskushyökkääjä,8.6.1985,FIN,"Jyväskylä, FIN",35,181,94,L
+25663901,"Ruuttu, Alexander",KalPa,Oikea laitahyökkääjä,9.12.1992,FIN,"Chicago, IL, USA",28,187,85,R
+22671530,"Nenonen, Markus",HPK,Vasen laitahyökkääjä,29.10.1992,FIN,"Jämsänkoski, FIN",28,187,94,L
+27471447,"Klemetti, Aleksi",KalPa,Oikea laitahyökkääjä,17.2.1999,FIN,"Kuhmo, FIN",22,171,72,L
+22895620,"Piitulainen, Jesper",Jukurit,Oikea laitahyökkääjä,13.8.1991,FIN,"Savonlinna, FIN",29,172,78,R
+40106629,"Kristof, Michal",Kärpät,Keskushyökkääjä,11.10.1993,SVK,"Nitra, SVK",27,176,72,L
+40245614,"Koblizek, Radek",Kärpät,Oikea laitahyökkääjä,20.10.1997,CZE,"Ivancice, CZE",23,175,73,R
+60348452,"Pospisil, Kristian",Lukko,Vasen laitahyökkääjä,22.4.1996,SVK,"Zvolen, SVK",25,187,88,L
+28696292,"Mattila, Julius",Lukko,Keskushyökkääjä,9.10.1997,FIN,"Tampere, FIN",23,180,77,L
+60342557,"Byström, Ludwig",Kärpät,Vasen puolustaja,20.7.1994,SWE,"Örnsköldsvik, SWE",26,184,79,L
+22487436,"Maalahti, Kalle",Ilves,Vasen puolustaja,30.4.1991,FIN,"Lappeenranta, FIN",29,178,85,L
+29969041,"Räsänen, Aapeli",KalPa,Keskushyökkääjä,1.6.1998,FIN,"Tampere, FIN",22,183,93,R
+34254136,"Bertrand, Charles",Tappara,Oikea laitahyökkääjä,5.2.1991,FRA,"Saint Maurice, FRA",30,185,94,R
+60498452,"Thomas, Christian",KooKoo,Oikea laitahyökkääjä,26.5.1992,CAN,"Toronto, ON, CAN",28,175,80,R
+25057054,"Pitkänen, Miikka",KalPa,Keskushyökkääjä,27.4.1996,FIN,"Kuopio, FIN",25,177,75,L
+22450515,"Lucenius, Niclas",Sport,Keskushyökkääjä,3.5.1989,FIN,"Turku, FIN",31,183,92,L
+60342514,"Mingoia, Trevor",KooKoo,Oikea laitahyökkääjä,18.1.1992,USA,"Fairport, NY, USA",29,181,86,R
+60466255,"Stransky, Simon",Jukurit,Vasen laitahyökkääjä,21.12.1997,CZE,"Ostrava, CZE",23,181,83,L
+40470643,"Matushkin, Maksim",Tappara,Vasen puolustaja,31.1.1990,SWE,"Minsk, BLR",31,179,83,L
+28730556,"Lepaus, Teemu",Ilves,Keskushyökkääjä,12.3.1993,FIN,"Tampere, FIN",28,181,81,L
+22474067,"Lyytinen, Joonas",HIFK,Vasen puolustaja,4.4.1995,FIN,"Espoo, FIN",26,185,78,L
+29658365,"Hämäläinen, Sakke",Pelicans,Keskushyökkääjä,2.12.1998,FIN,"Heinola, FIN",22,176,73,L
+24570406,"Koskiranta, Jarno",SaiPa,Keskushyökkääjä,9.12.1986,FIN,"Paimio, FIN",34,192,88,L
+25042564,"Pelli, Arttu",KooKoo,Oikea puolustaja,22.8.1996,FIN,"Kouvola, FIN",24,176,77,R
+23334106,"Suhonen, Teemu",Tappara,Vasen puolustaja,1.2.1989,FIN,"Kuopio, FIN",32,175,80,L
+25461491,"Tammela, Jonne",Lukko,Vasen laitahyökkääjä,5.8.1997,FIN,"Ylivieska, FIN",23,180,84,L
+28673529,"Borgström, Henrik",HIFK,Vasen laitahyökkääjä,6.8.1997,FIN,"Helsinki, FIN",23,191,90,L
+29446865,"Antonen, Joose",Ilves,Oikea laitahyökkääjä,28.4.1995,FIN,"Tampere, FIN",26,187,82,R
+24880895,"Mieho, Panu",Ilves,Vasen laitahyökkääjä,24.1.1995,FIN,"Helsinki, FIN",26,186,84,L
+23394612,"Tallberg, Teemu",HIFK,Vasen laitahyökkääjä,13.5.1991,FIN,"Helsinki, FIN",29,187,91,L
+23597163,"Vauhkonen, Olavi",Sport,Oikea laitahyökkääjä,24.1.1989,FIN,"Helsinki, FIN",32,194,109,R
+32569153,"Loimaranta, Veikko",SaiPa,Oikea laitahyökkääjä,21.12.2000,FIN,"Vantaa, FIN",20,182,83,L
+22483058,"Löfman, Anssi",Jukurit,Keskushyökkääjä,29.6.1987,FIN,"Lappeenranta, FIN",33,177,81,L
+32269686,"Hirvonen, Roni",Ässät,Keskushyökkääjä,10.1.2002,FIN,"Espoo, FIN",19,176,78,L
+25113804,"Rauhala, Otto",Tappara,Keskushyökkääjä,12.4.1995,FIN,"Ylöjärvi, FIN",26,180,90,L
+60348405,"Klok, Lukas",Lukko,Vasen puolustaja,7.6.1995,CZE,"Ostrava, CZE",25,185,85,L
+24226640,"Könönen, Juuso",KalPa,Vasen laitahyökkääjä,11.6.1998,FIN,"Kuopio, FIN",22,182,86,L
+21983012,"Keränen, Janne",Sport,Oikea laitahyökkääjä,30.6.1987,FIN,"Nurmijärvi, FIN",33,178,89,L
+30712591,"Nikkanen, Henri",Jukurit,Keskushyökkääjä,28.4.2001,FIN,"Mikkeli, FIN",20,194,95,L
+28506900,"Tikka, Tommi",HPK,Keskushyökkääjä,28.8.1995,FIN,"Helsinki, FIN",25,190,90,L
+25334515,"Viljanen, Valtteri",Sport,Oikea puolustaja,3.3.1994,FIN,"Pori, FIN",27,175,80,R
+25345944,"Vartiainen, Tuomas",KalPa,Oikea laitahyökkääjä,8.5.1996,FIN,"Oulu, FIN",24,178,80,R
+21983740,"Keränen, Michael",Sport,Vasen laitahyökkääjä,4.1.1990,FIN,"Stockholm, SWE",31,185,82,L
+30636693,"Haatanen, Aleks",Pelicans,Oikea laitahyökkääjä,16.11.2000,FIN,"Vantaa, FIN",20,176,81,R
+21600081,"Henritius, Teemu",Jukurit,Vasen laitahyökkääjä,20.4.1993,FIN,"Helsinki, FIN",28,180,80,L
+21785090,"Jasu, Juhani",TPS,Keskushyökkääjä,19.1.1988,FIN,"Eurajoki, FIN",33,185,89,R
+40172010,"Oden, Joonas",KooKoo,Oikea laitahyökkääjä,17.2.2000,FIN,"Pierce, WA, USA",21,183,89,R
+60503736,"Gregoire, Thomas",Lukko,Oikea puolustaja,15.7.1998,CAN,"Sherbrooke, QC, CAN",22,180,77,R
+29933776,"Kinnunen, Santtu",Tappara,Oikea puolustaja,25.3.1999,FIN,"Lahti, FIN",22,187,73,R
+28575614,"Välimäki, Juuso",Ilves,Oikea puolustaja,6.10.1998,FIN,"Tampere, FIN",22,187,95,L
+32558931,"Tieksola, Tuukka",Kärpät,Oikea laitahyökkääjä,22.6.2001,FIN,"Jääli, FIN",19,178,71,R
+23517198,"Tuulola, Joni",KooKoo,Vasen puolustaja,1.1.1996,FIN,"Hämeenlinna, FIN",25,191,84,L
+31165561,"Kivenmäki, Otto",Ässät,Vasen laitahyökkääjä,24.3.2000,FIN,"Pori, FIN",21,175,80,L
+24641005,"Kalapudas, Antti",JYP,Keskushyökkääjä,22.7.1996,FIN,"Oulainen, FIN",24,182,85,L
+40428666,"Heshka, Shaun",Kärpät,Oikea puolustaja,30.7.1985,CAN,"Melville, SK, CAN",35,186,95,R
+22452814,"Lukka, Santeri",HPK,Oikea puolustaja,19.7.1991,FIN,"Pori, FIN",29,180,86,R
+29695519,"Engberg, Teemu",KooKoo,Vasen laitahyökkääjä,9.6.1999,FIN,"Loviisa, FIN",21,181,86,L
+60472481,"Bemström, Emil",HIFK,Vasen laitahyökkääjä,1.6.1999,SWE,"Nyköping, SWE",21,179,85,R
+100033523,"Karlsson, Erik",KooKoo,Keskushyökkääjä,28.7.1994,SWE,"Lerum, SWE",26,181,73,L
+22396653,"Liedes, Heikki",Lukko,Keskushyökkääjä,12.1.1993,FIN,"Helsinki, FIN",28,186,88,L
+31803661,"Päkkilä, Eetu",Ilves,Vasen laitahyökkääjä,3.10.1999,FIN,"Oulu, FIN",21,182,78,L
+24674991,"Korpikoski, Lauri",TPS,Oikea laitahyökkääjä,28.7.1986,FIN,"Turku, FIN",34,185,87,L
+60454986,"Percy, Stuart",Sport,Vasen puolustaja,18.3.1993,CAN,"Oakville, ON, CAN",28,185,85,L
+60503717,"Bracco, Jeremy",KalPa,Oikea laitahyökkääjä,17.3.1997,USA,"Freeport, NY, USA",24,175,82,R
+60347522,"Larsson, Henrik",TPS,Oikea puolustaja,18.11.1994,SWE,"Bofors, SWE",26,173,77,L
+27706219,"Janatuinen, Joel",TPS,Vasen laitahyökkääjä,2.2.1995,FIN,"Espoo, FIN",26,183,83,L
+31905381,"Nalli, Miro",Ilves,Oikea laitahyökkääjä,28.1.1999,FIN,"Sahalahti, FIN",22,187,82,L
+60501726,"Rattie, Ty",Ässät,Vasen laitahyökkääjä,5.2.1993,CAN,"Calgary, AB, CAN",28,182,88,R
+21870028,"Kainulainen, Harri",HPK,Oikea laitahyökkääjä,21.3.1996,FIN,"Hämeenlinna, FIN",25,188,82,R
+24962616,"Ojantakanen, Kasperi",KooKoo,Keskushyökkääjä,12.1.1995,FIN,"Helsinki, FIN",26,180,79,R
+32219869,"Rafkin, Ruben",TPS,Vasen puolustaja,8.1.2002,FIN,"Turku, FIN",19,182,86,R
+24786410,"Laatikainen, Arto",HPK,Vasen puolustaja,24.5.1980,FIN,"Espoo, FIN",40,181,83,L
+30682391,"Nyman, Linus",Lukko,Vasen laitahyökkääjä,11.7.1999,FIN,"Helsinki, FIN",21,177,77,L
+24546935,"Koivisto, Toni",Lukko,Oikea laitahyökkääjä,5.11.1982,FIN,"Ylitornio, FIN",38,185,87,L
+22710462,"Nikko, Joni",SaiPa,Vasen laitahyökkääjä,31.5.1994,FIN,"Vaasa, FIN",26,187,90,L
+29942233,"Vanhatalo, Lassi",Tappara,Oikea laitahyökkääjä,8.1.1998,FIN,"Tampere, FIN",23,200,100,L
+29028513,"Ikonen, Joona",Ilves,Oikea laitahyökkääjä,14.5.1998,FIN,"Tampere, FIN",22,178,82,R
+22936754,"Pulkkinen, Teemu",Jukurit,Vasen laitahyökkääjä,13.3.1995,FIN,"Helsinki, FIN",26,175,79,L
+60498996,"Netterberg, Pontus",Jukurit,Oikea laitahyökkääjä,9.2.1992,SWE,"Varberg, SWE",29,187,93,R
+34367447,"Lambert, Brad",JYP,Oikea laitahyökkääjä,19.12.2003,FIN,"Lahti, FIN",17,182,78,R
+22464239,"Luostarinen, Eetu",KalPa,Keskushyökkääjä,2.9.1998,FIN,"Siilinjärvi, FIN",22,190,86,L
+27772764,"Lahtinen, Severi",JYP,Oikea laitahyökkääjä,13.12.1998,FIN,"Vantaa, FIN",22,185,93,L
+60455235,"Moravcik, Michal",Tappara,Vasen puolustaja,7.12.1994,CZE,"Klatovy, CZE",26,194,96,L
+22679723,"Niemelä, Mikko",Kärpät,Oikea puolustaja,9.10.1990,FIN,"Oulu, FIN",30,187,91,R
+24849205,"Myttynen, Matias",Ilves,Keskushyökkääjä,12.3.1990,FIN,"Tampere, FIN",31,187,88,L
+30345845,"Jääskä, Juha",HIFK,Keskushyökkääjä,9.2.1998,FIN,"Helsinki, FIN",23,184,89,L
+21878800,"Kaksonen, Elmeri",SaiPa,Vasen laitahyökkääjä,12.2.1987,FIN,"Savonlinna, FIN",34,182,82,L
+60411600,"Sulak, Libor",Kärpät,Vasen puolustaja,4.3.1994,CZE,"Pelhrimov, CZE",27,189,86,L
+60455469,"Ibragimov, Timur",TPS,Oikea laitahyökkääjä,12.10.2000,RUS,"St. Petersburg, RUS",20,185,91,L
+22598901,"Mustonen, Aleksi",Kärpät,Keskushyökkääjä,28.3.1995,FIN,"Helsinki, FIN",26,175,75,L
+31903545,"Petman, Mikko",Lukko,Oikea laitahyökkääjä,13.5.2001,FIN,"Lappeenranta, FIN",19,184,88,R
+30793837,"Vilén, Elias",Pelicans,Keskushyökkääjä,1.1.2001,FIN,"Lahti, FIN",20,178,78,L
+30687613,"Saarela, Antti",Ilves,Keskushyökkääjä,27.6.2001,FIN,"Laitila, FIN",19,180,85,L
+34428467,"Helenius, Samuel",JYP,Keskushyökkääjä,26.11.2002,FIN,"Dallas, TX, USA",18,199,91,L
+23470251,"Tommila, Juho",Sport,Oikea puolustaja,9.2.1993,FIN,"Lappi TL, FIN",28,184,86,R
+30893766,"Viro, Eemil",TPS,Vasen puolustaja,3.4.2002,FIN,"Vantaa, FIN",19,183,78,L
+24509817,"Jürgens, Casimir",Pelicans,Vasen puolustaja,26.12.1994,FIN,"Helsinki, FIN",26,182,82,L
+40102012,"Puistola, Patrik",JYP,Oikea laitahyökkääjä,11.1.2001,FIN,"Tampere, FIN",20,183,80,L
+23181087,"Salmio, Mikko",JYP,Vasen laitahyökkääjä,13.7.1991,FIN,"Jämsä, FIN",29,192,92,L
+32058428,"Heinola, Ville",Lukko,Vasen puolustaja,2.3.2001,FIN,"Honkajoki, FIN",20,182,82,L
+60466256,"Afanasjev, Kristian",Jukurit,Oikea laitahyökkääjä,28.7.1998,RUS,"Mexico City, MEX",22,191,87,R
+23521841,"Tyrväinen, Antti",Pelicans,Vasen laitahyökkääjä,3.4.1989,FIN,"Seinäjoki, FIN",32,181,89,L
+30356928,"Virtanen, Santeri",Ilves,Keskushyökkääjä,11.5.1999,FIN,"Kirkkonummi, FIN",21,188,93,L
+22815419,"Partanen, Mika",Sport,Vasen laitahyökkääjä,18.10.1992,FIN,"Helsinki, FIN",28,188,95,L
+22891255,"Piipponen, Samuli",Lukko,Vasen puolustaja,13.2.1993,FIN,"Helsinki, FIN",28,192,91,L
+30707373,"Väänänen, Miro",HIFK,Keskushyökkääjä,15.11.1998,FIN,"Joensuu, FIN",22,181,89,L
+60455241,"Spacek, Michael",Tappara,Keskushyökkääjä,9.4.1997,CZE,"Pardubice, CZE",24,180,85,R
+21403877,"Elorinne, Aleksi",Ilves,Oikea puolustaja,3.2.1990,FIN,"Joensuu, FIN",31,196,99,L
+60476693,"Merkley, Nick",Ässät,Oikea laitahyökkääjä,23.3.1997,CAN,"Calgary, AB, CAN",24,178,88,R
+24177003,"Sevänen, Roni",Lukko,Vasen puolustaja,17.4.1995,FIN,"Eura, FIN",26,184,87,L
+60476673,"Borgman, Andreas",Ässät,Oikea puolustaja,18.6.1995,SWE,"Stockholm, SWE",25,183,92,L
+60455474,"Ivarsson, Johan",TPS,Vasen puolustaja,6.7.1995,SWE,"Höör, SWE",25,188,94,L
+25454518,"Talaja, Roope",Sport,Oikea laitahyökkääjä,2.8.1988,FIN,"Kuopio, FIN",32,181,88,L
+27833056,"Puljujärvi, Jesse",Kärpät,Oikea laitahyökkääjä,7.5.1998,FIN,"Älvkarleby, SWE",22,193,92,R
+22510552,"Manninen, Oskari",KooKoo,Vasen puolustaja,22.4.1991,FIN,"Helsinki, FIN",30,179,84,L
+24779032,"Lantta, Jaakko",SaiPa,Keskushyökkääjä,22.4.1996,FIN,"Valkeala, FIN",25,180,81,R
+60462327,"Bergman, Julius",Pelicans,Oikea puolustaja,2.11.1995,SWE,"Stockholm, SWE",25,186,93,R
+27355408,"Siikonen, Miska",JYP,Keskushyökkääjä,12.5.1996,FIN,"Tampere, FIN",24,190,92,L
+23064609,"Riska, Erik",Sport,Oikea laitahyökkääjä,16.5.1989,FIN,"Pietarsaari, FIN",31,188,92,L
+27852901,"Juhola, Jouka",Ässät,Vasen laitahyökkääjä,14.7.1997,FIN,"Harjavalta, FIN",23,184,93,L
+23677889,"Wirtanen, Petteri",TPS,Keskushyökkääjä,28.5.1986,FIN,"Hyvinkää, FIN",34,187,92,L
+23669075,"Virtanen, Jonne",Sport,Keskushyökkääjä,13.3.1988,FIN,"Turku, FIN",33,197,118,L
+29995510,"Laaksonen, Oskari",Pelicans,Oikea puolustaja,2.7.1999,FIN,"Tampere, FIN",21,188,75,R
+25630280,"Saarinen, Jesse",HIFK,Vasen laitahyökkääjä,29.7.1985,FIN,"Lahti, FIN",35,172,79,L
+29936715,"Kotkansalo, Kasper",Ässät,Vasen puolustaja,16.11.1998,FIN,"Helsinki, FIN",22,188,90,L
+100025878,"Motin, Johan",HIFK,Oikea puolustaja,10.10.1989,SWE,"Karlskoga, SWE",31,187,91,R
+28822079,"Teräväinen, Eero",HIFK,Oikea puolustaja,8.3.1999,FIN,"Helsinki, FIN",22,181,78,L
+24324348,"Gröndahl, Ari",Sport,Vasen puolustaja,11.8.1989,FIN,"Helsinki, FIN",31,195,98,R
+30561454,"Killinen, Lenni",Ässät,Oikea laitahyökkääjä,15.6.2000,FIN,"Espoo, FIN",20,187,89,L
+22497989,"Malinen, Jarkko",Tappara,Keskushyökkääjä,17.3.1988,FIN,"Kuopio, FIN",33,188,84,L
+60455238,"Parlett, Blake",Tappara,Oikea puolustaja,13.5.1989,CAN,"Bracebridge, ON, CAN",31,185,93,R
+23702275,"Vähätalo, Julius",Jukurit,Keskushyökkääjä,23.3.1995,FIN,"Vahto, FIN",26,196,87,L
+24271404,"Appelgren, Niklas",Ässät,Keskushyökkääjä,24.6.1990,FIN,"Kouvola, FIN",30,188,93,L
+60499452,"Morrow, Joe",Ässät,Oikea puolustaja,9.12.1992,CAN,"Edmonton, AB, CAN",28,185,94,L
+24464062,"Ikonen, Jasse",Ässät,Keskushyökkääjä,13.6.1990,FIN,"Kuopio, FIN",30,184,86,L
+29837610,"Väyrynen, Teemu",Ilves,Vasen laitahyökkääjä,28.4.1997,FIN,"Joensuu, FIN",24,175,78,L
+23137280,"Saari, Micke",SaiPa,Keskushyökkääjä,19.4.1994,FIN,"Kirkkonummi, FIN",27,185,81,L
+28577104,"Koivula, Otto",HIFK,Keskushyökkääjä,1.9.1998,FIN,"Nokia, FIN",22,193,100,L
+29870486,"Haapanen, Topias",TPS,Vasen laitahyökkääjä,27.4.1998,FIN,"Pirkkala, FIN",23,185,86,L
+60407804,"Bernhardt, David",HIFK,Vasen puolustaja,1.12.1997,SWE,"Huddinge, SWE",23,190,92,L
+29864256,"Erholtz, Eemil",SaiPa,Vasen laitahyökkääjä,25.3.2000,FIN,"Mikkeli, FIN",21,181,80,R
+27847136,"Toivola, Artturi",Pelicans,Keskushyökkääjä,23.5.1998,FIN,"Jyväskylä, FIN",22,181,77,L
+23242492,"Seppälä, Mikael",KalPa,Vasen puolustaja,8.3.1994,FIN,"Ylivieska, FIN",27,188,95,L
+60346724,"Galvas, Jakub",Jukurit,Oikea puolustaja,15.6.1999,CZE,"Ostrava, CZE",21,181,75,L
+24459695,"Ikonen, Ossi",HPK,Vasen puolustaja,4.3.1990,FIN,"Toivakka, FIN",31,179,75,L
+28905831,"Parikka, Jarkko",Ilves,Vasen puolustaja,6.9.1997,FIN,"Imatra, FIN",23,183,87,L
+24153195,"Suuronen, Toni",KooKoo,Vasen laitahyökkääjä,30.6.1995,FIN,"Hamina, FIN",25,180,85,L
+24485410,"Jalvanti, Joonas",Pelicans,Vasen puolustaja,9.9.1988,FIN,"Lahti, FIN",32,182,89,L
+24174048,"Leskinen, Otto",KalPa,Oikea puolustaja,6.2.1997,FIN,"Pieksämäki, FIN",24,181,85,L
+21804861,"Jokinen, Tommi",KalPa,Vasen laitahyökkääjä,17.9.1988,FIN,"Siilinjärvi, FIN",32,184,90,L
+28696276,"Mattila, Jesper",KalPa,Vasen puolustaja,9.10.1997,FIN,"Tampere, FIN",23,180,80,L
+24876676,"Monto, Joona",HPK,Keskushyökkääjä,22.6.1994,FIN,"Hyvinkää, FIN",26,185,87,L
+24808136,"Lindsten, Jasper",Ässät,Oikea laitahyökkääjä,30.6.1994,FIN,"Salo, FIN",26,182,85,L
+60455462,"Bohm, Oliver",TPS,Oikea puolustaja,14.4.1992,SWE,"Karlstad, SWE",29,191,98,L
+24555418,"Keränen, Juho",HIFK,Oikea laitahyökkääjä,7.4.1985,FIN,"Keitele, FIN",36,176,86,R
+25589140,"Sailio, Jari",Kärpät,Vasen laitahyökkääjä,18.3.1986,FIN,"Hyvinkää, FIN",35,179,84,L
+24064653,"Mäkinen, Otto",Jukurit,Keskushyökkääjä,21.5.1998,FIN,"Tampere, FIN",22,188,81,L
+31585390,"Kukkonen, Miska",Lukko,Oikea puolustaja,19.6.2000,FIN,"Jokioinen, FIN",20,186,92,R
+40431875,"Gallet, Hugo",KalPa,Vasen puolustaja,20.6.1997,FRA,"Amiens, FRA",23,192,94,L
+31128854,"Kokkonen, Mikko",Jukurit,Vasen puolustaja,18.1.2001,FIN,"Mikkeli, FIN",20,181,90,L
+23837263,"Kuru, Hannu",TPS,Vasen laitahyökkääjä,12.5.1993,FIN,"Kaarina, FIN",27,181,82,L
+28745305,"Luoto, Joona",HIFK,Vasen laitahyökkääjä,26.9.1997,FIN,"Lempäälä, FIN",23,190,87,L
+23097498,"Ruokonen, Miro",HPK,Vasen laitahyökkääjä,27.3.1996,FIN,"Forssa, FIN",25,182,87,L
+31927592,"Valkeejärvi, Samuel",JYP,Vasen laitahyökkääjä,11.5.2001,FIN,"Jyväskylä, FIN",19,182,77,L
+32108624,"Rajaniemi, Matias",Pelicans,Vasen puolustaja,11.9.2002,FIN,"Lahti, FIN",18,191,92,L
+40371281,"Blood, Ben",Tappara,Vasen puolustaja,15.3.1989,USA,"Plymouth, MA, USA",32,193,103,L
+60497670,"Aleksandrov, Nikita",KooKoo,Vasen laitahyökkääjä,16.9.2000,RUS,"Burgwedel, GER",20,180,84,L
+31250968,"Kakkonen, Valtteri",JYP,Oikea puolustaja,17.3.2000,FIN,"Jyväskylä, FIN",21,182,80,R
+28842826,"Vainio, Veeti",Pelicans,Vasen puolustaja,16.6.1997,FIN,"Espoo, FIN",23,189,84,R
+24174051,"Leskinen, Ville",Jukurit,Vasen laitahyökkääjä,29.7.1995,FIN,"Pieksämäki, FIN",25,181,77,L
+40339220,"Bonsaksen, Alexander",KooKoo,Vasen puolustaja,24.1.1987,NOR,"Oslo, NOR",34,182,83,L
+23168071,"Salmela, Tuomas",Ilves,Oikea puolustaja,30.6.1995,FIN,"Tornio, FIN",25,188,92,L
+29902367,"Jämsen, Juuso",Pelicans,Oikea laitahyökkääjä,29.6.2000,FIN,"Lahti, FIN",20,175,76,R
+30482177,"Winberg, Tobias",HIFK,Vasen puolustaja,2.10.1998,FIN,"Helsinki, FIN",22,190,90,L
+28273262,"Rautanen, Juho",KooKoo,Vasen puolustaja,25.5.1997,FIN,"Mäntsälä, FIN",23,183,84,L
+32780178,"Mäntykivi, Matias",SaiPa,Oikea laitahyökkääjä,21.6.2001,FIN,"Lappeenranta, FIN",19,181,75,L
+25458802,"Tanus, Jonatan",Pelicans,Oikea laitahyökkääjä,4.6.1995,FIN,"Kuopio, FIN",25,175,85,L
+21940848,"Karvinen, Otto",Kärpät,Oikea laitahyökkääjä,8.4.1990,FIN,"Vantaa, FIN",31,187,89,L
+29885743,"Vesalainen, Kristian",HPK,Vasen laitahyökkääjä,1.6.1999,FIN,"Helsinki, FIN",21,192,94,L
+22024624,"Kivelä, Niko",Ässät,Oikea laitahyökkääjä,21.2.1995,FIN,"Helsinki, FIN",26,186,90,L
+25091997,"Riikola, Simo-Pekka",SaiPa,Oikea puolustaja,3.2.1992,FIN,"Joensuu, FIN",29,186,90,R
+32707368,"Vilén, Topias",Pelicans,Oikea puolustaja,1.4.2003,FIN,"Lahti, FIN",18,184,88,L
+25572911,"Salmela, Anssi",Ilves,Oikea puolustaja,13.8.1984,FIN,"Nokia, FIN",36,185,86,L
+32033595,"Seppälä, Peetro",KooKoo,Vasen puolustaja,17.8.2000,FIN,"Kuusankoski, FIN",20,189,88,L
+25381270,"Vainio, Olli",Ässät,Oikea puolustaja,23.4.1994,FIN,"Tampere, FIN",27,185,83,R
+24353539,"Huttula, Joona",Kärpät,Vasen puolustaja,7.1.1997,FIN,"Tampere, FIN",24,184,81,L
+24406130,"Hermonen, Julius",Kärpät,Vasen laitahyökkääjä,20.1.1997,FIN,"Oulu, FIN",24,177,77,L
+28976718,"Kotkaniemi, Jesperi",Ässät,Keskushyökkääjä,6.7.2000,FIN,"Pori, FIN",20,188,83,L
+24916798,"Nieminen, Otto",Pelicans,Oikea laitahyökkääjä,8.5.1996,FIN,"Somero, FIN",24,175,87,L
+28504481,"Vuorisalo, Teemu",Ässät,Oikea puolustaja,4.6.1995,FIN,"Pori, FIN",25,180,82,R
+27775017,"Kanninen, Henri",HPK,Oikea laitahyökkääjä,17.10.1994,FIN,"Jyväskylä, FIN",26,190,83,L
+33388362,"Koskela, Valtteri",JYP,Vasen puolustaja,20.10.2002,FIN,"Jyväskylä, FIN",18,178,71,L
+21892307,"Kalteva, Mikko",JYP,Vasen puolustaja,25.5.1984,FIN,"Hyvinkää, FIN",36,192,92,L
+29937154,"Ylönen, Jesse",Pelicans,Oikea laitahyökkääjä,3.10.1999,FIN,"Scottsdale, AZ, USA",21,183,73,R
+31494258,"Hakanen, Santtu",HPK,Keskushyökkääjä,17.1.2001,FIN,"Tampere, FIN",20,171,78,L
+60483742,"Abramov, Vitali",Jukurit,Oikea laitahyökkääjä,8.5.1998,RUS,"Tsheljabinsk, RUS",22,175,79,L
+29846355,"Moilanen, Sami",Tappara,Vasen laitahyökkääjä,22.1.1999,FIN,"Sipoo, FIN",22,175,82,L
+29934157,"Anttalainen, Aleksi",TPS,Vasen puolustaja,28.3.1999,FIN,"Turku, FIN",22,175,84,L
+32306811,"Immonen, Severi",KalPa,Keskushyökkääjä,21.6.2000,FIN,"Tuusniemi, FIN",20,181,81,L
+22441087,"Liuksiala, Juho",Sport,Vasen laitahyökkääjä,2.11.1995,FIN,"Vammala, FIN",25,173,80,R
+31762087,"Räty, Aku",Kärpät,Oikea laitahyökkääjä,5.7.2001,FIN,"Oulu, FIN",19,184,80,R
+25357521,"Varakas, Ville",HIFK,Vasen puolustaja,13.2.1984,FIN,"Helsinki, FIN",37,181,85,L
+21650701,"Honka, Julius",Pelicans,Oikea puolustaja,3.12.1995,FIN,"Jyväskylä, FIN",25,180,84,R
+34231735,"Hede, Elis",HIFK,Oikea laitahyökkääjä,20.1.2001,FIN,"Pori, FIN",20,178,70,L
+31574013,"Simontaival, Kasper",Tappara,Oikea laitahyökkääjä,11.1.2002,FIN,"Orivesi, FIN",19,175,78,R
+32093700,"Pyyhtiä, Mikael",TPS,Vasen laitahyökkääjä,17.12.2001,FIN,"Turku, FIN",19,182,79,L
+25651492,"Suoranta, Simon",Sport,Vasen laitahyökkääjä,21.5.1992,FIN,"Vaasa, FIN",28,191,101,L
+28548308,"Kuokkanen, Janne",Kärpät,Vasen laitahyökkääjä,25.5.1998,FIN,"Oulunsalo, FIN",22,185,88,L
+29587960,"Berger, Martin",KooKoo,Oikea puolustaja,10.12.1996,FIN,"Turku, FIN",24,183,91,L
+29859517,"Piipponen, Topi",SaiPa,Vasen laitahyökkääjä,2.5.1997,FIN,"Siilinjärvi, FIN",23,182,84,L
+23775707,"Olkkonen, Joel",SaiPa,Vasen puolustaja,5.2.1993,FIN,"Hyvinkää, FIN",28,190,98,R
+30039025,"Vainionpää, Samuli",TPS,Oikea laitahyökkääjä,5.10.1999,FIN,"Kangasala, FIN",21,190,94,L
+27854909,"Vidgren, Aaro",Sport,Vasen laitahyökkääjä,30.5.1997,FIN,"Lohja, FIN",23,189,90,L
+24127529,"Rouhiainen, Jere",Tappara,Oikea puolustaja,16.1.1996,FIN,"Tampere, FIN",25,182,78,L
+29937251,"Siikanen, Patrik",JYP,Keskushyökkääjä,16.4.2000,FIN,"Espoo, FIN",21,186,90,L
+29780877,"Almari, Niclas",Pelicans,Vasen puolustaja,11.5.1998,FIN,"Espoo, FIN",22,187,81,L
+31228178,"Hatakka, Santeri",Ilves,Vasen puolustaja,15.1.2001,FIN,"Riihimäki, FIN",20,185,88,L
+30644067,"Latvala, Otto",HPK,Oikea puolustaja,14.7.1999,FIN,"Alajärvi, FIN",21,197,92,R
+60455497,"Ortega, Austin",TPS,Oikea laitahyökkääjä,12.4.1994,USA,"Escondido, CA, USA",27,173,75,R
+29735822,"Heljanko, Rasmus",HIFK,Oikea laitahyökkääjä,27.2.2000,FIN,"Askola, FIN",21,178,77,R
+31899057,"Räty, Aatu",Kärpät,Keskushyökkääjä,14.11.2002,FIN,"Oulunsalo, FIN",18,185,82,L
+21673131,"Humaloja, Miska",KalPa,Keskushyökkääjä,15.5.1991,FIN,"Pyhäjärvi, FIN",29,182,90,L
+31110600,"Korhonen, Benjamin",KalPa,Oikea laitahyökkääjä,11.7.2001,FIN,"Ylivieska, FIN",19,186,80,L
+23793763,"Åsten, Micke-Max",HIFK,Vasen laitahyökkääjä,10.6.1992,FIN,"Helsinki, FIN",28,182,85,L
+60508510,"Chlapik, Filip",Pelicans,Keskushyökkääjä,3.6.1997,CZE,"Praha, CZE",23,185,89,L
+24771797,"Laakso, Tommi",Ässät,Vasen laitahyökkääjä,20.5.1997,FIN,"Vantaa, FIN",23,190,95,L
+60498994,"Yip, Brandon",Jukurit,Vasen laitahyökkääjä,25.4.1985,CAN,"Maple Ridge, BC, CAN",36,185,90,R
+30738423,"Utunen, Toni",Tappara,Vasen puolustaja,27.4.2000,FIN,"Kokkola, FIN",21,180,81,L
+30951530,"Riekkinen, Joona",KalPa,Vasen puolustaja,5.3.1999,FIN,"Kuopio, FIN",22,180,92,L
+25646106,"Gymer, Frank",Pelicans,Vasen laitahyökkääjä,7.6.1996,FIN,"Helsinki, FIN",24,177,77,L
+22240990,"Laakso, Aleksi",Pelicans,Oikea puolustaja,16.3.1990,FIN,"Seinäjoki, FIN",31,181,80,L
+60348446,"Grman, Mario",SaiPa,Oikea puolustaja,11.4.1997,SVK,"Topolcany, SVK",24,185,89,R
+29782985,"Peltomäki, Niklas",Ilves,Vasen puolustaja,9.4.1998,FIN,"Espoo, FIN",23,190,83,L
+31835642,"Intonen, Aarne",TPS,Oikea laitahyökkääjä,17.7.2001,FIN,"Lieto, FIN",19,182,91,L
+21926286,"Karjalainen, Miro",HIFK,Oikea puolustaja,23.5.1996,FIN,"Vihti, FIN",24,200,106,R
+30821864,"Puhakka, Petteri",Tappara,Oikea laitahyökkääjä,11.4.2001,FIN,"Pyhäjoki, FIN",20,179,77,L
+24235741,"Koppanen, Joona",Ilves,Keskushyökkääjä,25.2.1998,FIN,"Tampere, FIN",23,192,80,L
+24715452,"Lindroos, Alex",Pelicans,Vasen puolustaja,4.9.1995,FIN,"Helsinki, FIN",25,194,101,L
+24182470,"Allén, Roni",JYP,Vasen puolustaja,10.10.1998,FIN,"Rovaniemi, FIN",22,183,91,L
+28489001,"Metsävainio, Tino",Kärpät,Keskushyökkääjä,14.10.1996,FIN,"Haukipudas, FIN",24,172,67,L
+24177621,"Varttinen, Aleksi",Ässät,Vasen puolustaja,26.6.1997,FIN,"Eura, FIN",23,178,85,L
+40024585,"Tavernier, Sami",KalPa,Vasen laitahyökkääjä,25.4.1997,FIN,"Ambilly, FRA",24,182,83,R
+21720152,"Hämäläinen, Rasmus",SaiPa,Oikea laitahyökkääjä,12.8.1994,FIN,"Lappeenranta, FIN",26,184,84,L
+29554508,"Ikonen, Joni",Ilves,Keskushyökkääjä,14.4.1999,FIN,"Espoo, FIN",22,182,83,R
+23349227,"Suomela, Antti",HIFK,Oikea laitahyökkääjä,17.3.1994,FIN,"Espoo, FIN",27,183,78,L
+30419043,"Mäkinen, Atte",Ässät,Oikea laitahyökkääjä,27.4.1996,FIN,"Vantaa, FIN",25,179,85,L
+24190598,"Salonen, Aleksi",JYP,Oikea puolustaja,3.2.1993,FIN,"Muurame, FIN",28,179,81,R
+28570745,"Knuutinen, Henri",KalPa,Vasen laitahyökkääjä,27.12.1997,FIN,"Kiuruvesi, FIN",23,190,93,L
+32105313,"Viitala, Leevi",Ässät,Oikea laitahyökkääjä,20.6.2001,FIN,"Pomarkku, FIN",19,183,86,R
+40291921,"Aaltonen, Leevi",KooKoo,Vasen laitahyökkääjä,24.1.2001,FIN,"Mikkeli, FIN",20,175,76,L
+25116157,"Riska, Filip",Sport,Keskushyökkääjä,13.5.1985,FIN,"Pietarsaari, FIN",35,184,91,L
+40311086,"Lofquist, Sam",SaiPa,Oikea puolustaja,15.3.1990,FIN,"Somerset, WI, USA",31,188,93,R
+30870187,"Salmela, Santeri",Jukurit,Oikea puolustaja,10.6.2000,FIN,"Lappeenranta, FIN",20,186,87,L
+29650046,"Laitinen, Vili",Lukko,Oikea puolustaja,18.12.1999,FIN,"Lohja, FIN",21,175,80,R
+60470901,"Moverare, Jacob",SaiPa,Oikea puolustaja,31.8.1998,SWE,"Östersund, SWE",22,189,90,L
+22064150,"Kojo, Markus",SaiPa,Vasen puolustaja,30.3.1994,FIN,"Noormarkku, FIN",27,194,101,L
+27666320,"Mäkinen, Miro",Ässät,Keskushyökkääjä,27.4.1996,FIN,"Vantaa, FIN",25,180,85,L
+22686282,"Niemi, Mika",Ässät,Keskushyökkääjä,10.3.1988,FIN,"Pori, FIN",33,186,87,L
+31252775,"Aaltonen, Samuli",Ässät,Vasen laitahyökkääjä,22.8.2000,FIN,"Uusikaupunki, FIN",20,189,85,L
+40432227,"Krivosik, Filip",SaiPa,Oikea laitahyökkääjä,27.3.1999,SVK,"Bratislava, SVK",22,193,94,R
+23620535,"Westermarck, Victor",Sport,Vasen puolustaja,26.2.1994,FIN,"Espoo, FIN",27,188,89,R
+60460725,"Roman, Ondrej",Ilves,Keskushyökkääjä,8.2.1989,CZE,"Ostrava, CZE",32,182,83,L
+22051338,"Koivisto, Kimi",KooKoo,Keskushyökkääjä,31.12.1992,FIN,"Heinola, FIN",28,182,86,L
+24783853,"Lintuniemi, Alex",JYP,Vasen puolustaja,23.9.1995,FIN,"Helsinki, FIN",25,192,105,L
+30759761,"Kautiainen, Niko",SaiPa,Oikea laitahyökkääjä,17.8.2001,FIN,"Helsinki, FIN",19,182,77,R
+28727446,"Koskenkorva, Jesse",Kärpät,Keskushyökkääjä,31.7.1999,FIN,"Oulu, FIN",21,184,81,L
+29679441,"Ronkainen, Taneli",Kärpät,Vasen puolustaja,28.3.1995,FIN,"Kuusamo, FIN",26,183,79,L
+24769356,"Lahtela, Mikko",HPK,Keskushyökkääjä,19.10.1992,FIN,"Lahti, FIN",28,187,85,L
+31555838,"Niemelä, Topi",Kärpät,Oikea puolustaja,25.3.2002,FIN,"Oulu, FIN",19,181,75,R
+28942315,"Laavainen, Roope",KalPa,Oikea puolustaja,23.8.1998,FIN,"Vantaa, FIN",22,187,91,R
+60487873,"Hayton, Barrett",Ilves,Keskushyökkääjä,9.6.2000,CAN,"Peterborough, ON, CAN",20,186,87,L
+23424825,"Teppo, Miihkali",Kärpät,Vasen puolustaja,28.12.1992,FIN,"Helsinki, FIN",28,189,87,L
+24811398,"Louhivaara, Ossi",JYP,Oikea laitahyökkääjä,31.8.1983,FIN,"Kotka, FIN",37,186,89,R
+30728763,"Ojantakanen, Valtteri",SaiPa,Oikea laitahyökkääjä,16.9.2000,FIN,"Helsinki, FIN",20,183,80,R
+33388333,"Koskela, Santeri",JYP,Keskushyökkääjä,20.10.2002,FIN,"Jyväskylä, FIN",18,176,66,L
+60492189,"Dellandrea, Ty",JYP,Vasen laitahyökkääjä,21.7.2000,CAN,"Port Perry, ON, CAN",20,185,86,R
+31519609,"Puutio, Kasper",Kärpät,Vasen puolustaja,3.6.2002,FIN,"Vaasa, FIN",18,181,80,R
+23555503,"Vainikainen, Ville",SaiPa,Vasen laitahyökkääjä,26.1.1994,FIN,"Kuopio, FIN",27,180,93,L
+32976568,"Malinen, Aleksi",JYP,Vasen puolustaja,26.5.2003,FIN,"Tuusula, FIN",17,183,77,L
+25567120,"Somppi, Otto",Pelicans,Keskushyökkääjä,12.1.1998,FIN,"Helsinki, FIN",23,188,87,L
+40003574,"Liukas, Eetu",TPS,Vasen laitahyökkääjä,25.9.2002,FIN,"Kaarina, FIN",18,188,93,L
+29641327,"Matinpalo, Nikolas",Ässät,Oikea puolustaja,5.10.1998,FIN,"Espoo, FIN",22,190,92,R
+25618516,"Saarelainen, Miro-Pekka",Pelicans,Oikea laitahyökkääjä,26.4.1994,FIN,"Vantaa, FIN",27,177,80,R
+24612937,"Koistinen, Ville",HPK,Oikea puolustaja,17.6.1982,FIN,"Oulu, FIN",38,181,86,L
+29670505,"Henriksson, Jere",Tappara,Oikea laitahyökkääjä,8.2.2001,FIN,"Oulu, FIN",20,180,85,L
+31555841,"Ottavainen, Ville",JYP,Vasen puolustaja,12.8.2002,FIN,"Oulu, FIN",18,190,95,R
+21849554,"Järvinen, Joonas",Ässät,Vasen puolustaja,5.1.1989,FIN,"Turku, FIN",32,190,97,L
+40020340,"Jeskanen, Valtteri",HPK,Vasen puolustaja,7.11.2000,FIN,"Hyvinkää, FIN",20,181,81,L
+22993098,"Rajaniemi, Sami",Jukurit,Maalivahti,20.8.1992,FIN,"Oulainen, FIN",28,184,83,L
+22770952,"Nättinen, Topi",Tappara,Vasen laitahyökkääjä,1.4.1994,FIN,"Jyväskylä, FIN",27,178,81,L
+40005621,"Airola, Santeri",Ilves,Oikea puolustaja,29.6.2000,FIN,"Imatra, FIN",20,180,74,R
+31017907,"Vanttaja, Olli",Sport,Oikea puolustaja,9.6.1999,FIN,"Oulu, FIN",21,182,82,L
+60350439,"Ytterell, Alexander",KooKoo,Oikea puolustaja,1.7.1991,SWE,"Vetlanda, SWE",29,184,82,R
+29615777,"Nordgren, Niklas",HIFK,Oikea laitahyökkääjä,4.5.2000,FIN,"Helsinki, FIN",20,175,83,R
+31209498,"Niemeläinen, Markus",Ässät,Vasen puolustaja,8.6.1998,FIN,"Kuopio, FIN",22,197,93,L
+23155013,"Saha, Mikael",Jukurit,Oikea laitahyökkääjä,5.3.1995,FIN,"Loimaa, FIN",26,188,84,L
+30851669,"Huttunen, Heikki",Jukurit,Oikea laitahyökkääjä,25.9.1998,FIN,"Helsinki, FIN",22,180,83,R
+23179112,"Salminen, Sakari",Ässät,Vasen laitahyökkääjä,31.5.1988,FIN,"Pori, FIN",32,180,77,R
+33388168,"Kombe, Kristjan",HPK,Oikea laitahyökkääjä,28.3.2000,FIN,"Kuressaari, EST",21,187,81,L
+30010662,"Juusola, Mikko",SaiPa,Vasen laitahyökkääjä,17.3.1998,FIN,"Kuusamo, FIN",23,179,75,L
+33451105,"Auvitu, Yohann",HIFK,Vasen puolustaja,27.7.1989,FRA,"Ivry-sur-Seine, FRA",31,182,89,L
+29948541,"Reunanen, Tarmo",HPK,Vasen puolustaja,1.3.1998,FIN,"Äänekoski, FIN",23,182,81,L
+40172011,"Oden, Markus",Jukurit,Oikea laitahyökkääjä,9.7.2001,FIN,"Pierce, WA, USA",19,177,70,R
+60455460,"Bibic, Alen",TPS,Vasen puolustaja,16.10.1991,SWE,"Ugao, YUG",29,194,100,L
+30138036,"Ronkainen, Miska",HPK,Oikea laitahyökkääjä,20.9.1999,FIN,"Forssa, FIN",21,174,81,L
+29937756,"Karjalainen, Leevi",SaiPa,Oikea puolustaja,4.3.2000,FIN,"Helsinki, FIN",21,182,78,L
+24825038,"Mäkelä, Aleksi",Sport,Oikea puolustaja,3.5.1993,FIN,"Kiiminki, FIN",27,180,87,R
+24229184,"Mäkinen, Atte",Jukurit,Vasen puolustaja,17.5.1995,FIN,"Tampere, FIN",25,191,92,R
+31779229,"Petman, Ville",SaiPa,Keskushyökkääjä,18.1.2000,FIN,"Lappeenranta, FIN",21,179,82,L
+23684063,"Voutilainen, Joona",KooKoo,Maalivahti,17.11.1996,FIN,"Espoo, FIN",24,186,72,L
+30117507,"Mäkiniemi, Eetu",Ilves,Maalivahti,19.4.1999,FIN,"Vantaa, FIN",22,189,80,L
+23486067,"Tuohimaa, Frans",HIFK,Maalivahti,19.8.1991,FIN,"Helsinki, FIN",29,188,89,L
+27843800,"Westerholm, Niclas",SaiPa,Maalivahti,13.8.1997,FIN,"Helsinki, FIN",23,193,90,L
+60457112,"Brattström, Victor",KooKoo,Maalivahti,22.3.1997,SWE,"Göteborg, SWE",24,196,89,L
+60454981,"Kolusz, Marcin",Sport,Vasen puolustaja,18.1.1985,POL,"Limanowa, POL",36,186,87,L
+32522158,"Thomson, Lassi",Ilves,Oikea puolustaja,24.9.2000,FIN,"Tampere, FIN",20,182,86,R
+30747854,"Kiesilä, Perttu",Jukurit,Keskushyökkääjä,31.5.1998,FIN,"Mäntyharju, FIN",22,181,72,R
+33424682,"Määttä, Rami",Ässät,Vasen puolustaja,3.4.2002,FIN,"Oulu, FIN",19,179,77,L
+33076328,"Sedoff, Christoffer",SaiPa,Oikea puolustaja,20.2.2002,FIN,"Helsinki, FIN",19,184,77,L
+40013106,"Koskimies, Mikael",SaiPa,Oikea puolustaja,28.3.2000,FIN,"Lappeenranta, FIN",21,191,87,L
+21700651,"Hyvärinen, Ville",Jukurit,Vasen puolustaja,6.6.1991,FIN,"Kuopio, FIN",29,190,95,L
+22675468,"Nevalainen, Niklas",SaiPa,Oikea puolustaja,28.6.1993,FIN,"Nakkila, FIN",27,177,82,L
+32003004,"Lehtinen, Atso",HPK,Vasen puolustaja,2.1.2001,FIN,"Hämeenlinna, FIN",20,182,84,L
+24260583,"Ahonen, Rony",HIFK,Oikea puolustaja,17.1.1987,FIN,"Porvoo, FIN",34,182,91,L
+30487321,"Vaakanainen, Urho",SaiPa,Vasen puolustaja,1.1.1999,FIN,"Joensuu, FIN",22,185,85,L
+22843711,"Peltola, Niko",Ilves,Vasen puolustaja,1.6.1990,FIN,"Huittinen, FIN",30,187,90,L
+33606280,Joakim |,JYP,Oikea laitahyökkääjä,27.4.2004,FIN,"Jyväskylän mlk, FIN",17,179,73,R
+32321838,"Kapanen, Karri",KooKoo,Vasen laitahyökkääjä,8.11.2000,FIN,"Savonlinna, FIN",20,178,81,L
+23251373,"Siekkinen, Jani",JYP,Keskushyökkääjä,6.8.1997,FIN,"Rauma, FIN",23,182,88,R
+60455498,"Weinger, Evan",TPS,Oikea laitahyökkääjä,18.4.1997,USA,"Los Angeles, CA, USA",24,183,82,R
+24555256,"Kankaanperä, Markus",HPK,Vasen puolustaja,7.4.1980,FIN,"Skellefteå, SWE",41,187,95,L
+30936623,"Haarala, Santeri",Sport,Oikea laitahyökkääjä,10.2.2000,FIN,"Vaasa, FIN",21,174,80,L
+30548804,"Haarti, Jaakko",Jukurit,Oikea puolustaja,15.1.1999,FIN,"Helsinki, FIN",22,179,77,R
+32294910,"Ylitalo, Niklas",Lukko,Oikea laitahyökkääjä,1.2.2000,FIN,"Rauma, FIN",21,179,79,R
+31411901,"Heikkinen, Lari",Sport,Oikea laitahyökkääjä,23.5.2000,FIN,"Oulu, FIN",20,179,85,L
+34339491,"Korhonen, Joona",Ilves,Vasen laitahyökkääjä,14.2.2003,FIN,"Tampere, FIN",18,185,84,L
+24530970,"Kinnunen, Saku",KooKoo,Vasen puolustaja,3.1.1995,FIN,"Kuhmo, FIN",26,177,85,L
+29022140,"Seppälä, Niko",JYP,Vasen puolustaja,9.9.1998,FIN,"Helsinki, FIN",22,186,96,L
+27828252,"Larmi, Emil",HPK,Maalivahti,28.9.1996,FIN,"Lahti, FIN",24,182,84,L
+23118759,"Rämö, Karri",TPS,Maalivahti,1.7.1986,FIN,"Asikkala, FIN",34,189,93,L
+60462059,"Bartosak, Patrik",Pelicans,Maalivahti,29.3.1993,CZE,"Koprivnice, CZE",28,185,88,L
+31006060,"Lebedeff, Daniel",HPK,Maalivahti,23.5.1999,FIN,"Helsinki, FIN",21,187,81,L
+28890904,"Halonen, Niilo",HIFK,Maalivahti,15.7.1998,FIN,"Loppi, FIN",22,188,81,L
+24390673,"Hovinen, Niko",Sport,Maalivahti,16.3.1988,FIN,"Helsinki, FIN",33,200,98,L
+21296411,"Aittokallio, Sami",Ässät,Maalivahti,6.8.1992,FIN,"Tampere, FIN",28,188,85,L
+29857823,"Ruusu, Markus",JYP,Maalivahti,23.8.1997,FIN,"Jämsä, FIN",23,188,78,L
+21589720,"Heljanko, Christian",Tappara,Maalivahti,2.4.1997,FIN,"Porvoo, FIN",24,182,76,L
+23249408,"Setänen, Oskari",Lukko,Maalivahti,28.4.1994,FIN,"Eura, FIN",27,186,87,L
+29652963,"Luukkonen, Ukko-Pekka",TPS,Maalivahti,9.3.1999,FIN,"Espoo, FIN",22,196,100,L
+30667484,"Matikainen, Kalle",Jukurit,Vasen laitahyökkääjä,5.6.2000,FIN,"Oulu, FIN",20,179,80,L
+21440937,"Friberg, Jere",KooKoo,Keskushyökkääjä,10.7.1995,FIN,"Laitila, FIN",25,185,90,L
+31582018,"Reini, Roope",SaiPa,Vasen puolustaja,29.5.1999,FIN,"Raisio, FIN",21,179,81,L
+24270214,"Autio, Erik",KooKoo,Oikea puolustaja,23.7.1995,FIN,"Espoo, FIN",25,179,83,L
+32869811,"Karvinen, Roni",SaiPa,Vasen laitahyökkääjä,22.10.2002,FIN,"Vantaa, FIN",18,184,90,L
+30984675,"Matinmikko, Aleksi",Ässät,Oikea puolustaja,6.3.2000,FIN,"Helsinki, FIN",21,181,85,R
+32419009,"Liikonen, Väinö",KooKoo,Vasen puolustaja,19.7.2001,FIN,"Kouvola, FIN",19,192,105,L
+24229715,"Jalonen, Jimi",SaiPa,Oikea puolustaja,21.4.1996,FIN,"Riihimäki, FIN",25,181,81,R
+34610178,"Lentämäki, Matias",HIFK,Vasen puolustaja,7.7.2000,FIN,"Helsinki, FIN",20,187,82,L
+29942725,"Salminen, Saku",Tappara,Vasen puolustaja,13.11.1999,FIN,"Tampere, FIN",21,184,88,L
+24188254,"Larinmaa, Joonas",JYP,Vasen laitahyökkääjä,29.10.1992,FIN,"Turku, FIN",28,173,73,L
+29665125,"Rämö, Jerkko",Pelicans,Oikea puolustaja,9.5.2000,FIN,"Pirkkala, FIN",20,179,75,L
+34133817,"Tuomaala, Samu",Kärpät,Oikea laitahyökkääjä,8.1.2003,FIN,"Oulu, FIN",18,178,80,R
+60455236,"Norin, Eric",Tappara,Oikea puolustaja,22.10.1991,SWE,"Täby, SWE",29,182,78,R
+60460180,"Bizon, Ondrej",Ilves,Maalivahti,9.5.2004,CZE,"Brno, CZE",16,180,74,L
+31330435,Niko |,JYP,Oikea laitahyökkääjä,14.8.2000,FIN,"Heinola, FIN",20,175,72,L
+31755748,"Istala, Viljami",SaiPa,Vasen puolustaja,22.2.2000,FIN,"Lappeenranta, FIN",21,185,83,L
+31001845,"Koskenkorva, Samu",Kärpät,Vasen puolustaja,11.5.2001,FIN,"Oulu, FIN",19,175,77,L
+40312846,"Kukkonen, Lasse",Kärpät,Vasen puolustaja,18.9.1981,FIN,"Oulu, FIN",39,183,85,L
+22181127,"Kumpulainen, Janne",JYP,Vasen laitahyökkääjä,12.3.1991,FIN,"Jyväskylä, FIN",30,174,84,L
+30730803,"Loponen, Kalle",Kärpät,Vasen puolustaja,13.3.2001,FIN,"Turku, FIN",20,181,85,R
+30131813,"Mäkelä, Alex",Lukko,Maalivahti,12.10.2000,FIN,"Rauma, FIN",20,177,72,L
+34522981,"Mäkelä, Leevi",JYP,Maalivahti,2.4.2002,FIN,"Pihtipudas, FIN",19,184,75,L
+60477337,"McIsaac, Jared",HPK,Oikea puolustaja,27.3.2000,CAN,"Truro, NS, CAN",21,186,87,L
+32413982,"Niemi, Eero",Ässät,Vasen laitahyökkääjä,2.10.2002,FIN,"Pori, FIN",18,182,88,L
+32372777,"Ruotsalainen, Arttu",Sport,Maalivahti,23.8.2000,FIN,"Joensuu, FIN",20,195,88,L
+40084827,"Silvennoinen, Lukas",Jukurit,Maalivahti,13.8.2002,FIN,"Turku, FIN",18,191,80,R
+30969140,"Teissala, Leevi",TPS,Vasen laitahyökkääjä,5.1.2001,FIN,"Turku, FIN",20,180,73,R
+30010552,"Tukiainen, Leevi",Pelicans,Oikea laitahyökkääjä,20.1.2000,FIN,"Lahti, FIN",21,182,80,R
+40009752,"Varjamo, Eppu",Ilves,Vasen laitahyökkääjä,15.8.2000,FIN,"Loimaa, FIN",20,176,85,L
+31584650,"Auvinen, Severi",SaiPa,Maalivahti,12.5.2001,FIN,"Helsinki, FIN",19,180,78,L
+31589972,"Blomqvist, Joel",Kärpät,Maalivahti,10.1.2002,FIN,"Pietarsaari, FIN",19,186,83,L
+60330620,"Helander, Juho",JYP,Maalivahti,27.1.2002,FIN,"Seinäjoki, FIN",19,183,83,L
+29551488,"Kuiri, Niko",Sport,Keskushyökkääjä,5.6.1998,FIN,"Juuka, FIN",22,185,86,L
+33039983,"Lampinen, Jani",HIFK,Maalivahti,14.2.2003,FIN,"Helsinki, FIN",18,186,80,L
+30933697,Lassi |,Sport,Maalivahti,29.11.2001,FIN,"Espoo, FIN",19,191,93,L
+32509715,"Suni, Oliver",Lukko,Vasen laitahyökkääjä,13.2.2002,FIN,"Kempele, FIN",19,188,85,R
+40004108,"Helomaa, Juuso",Ässät,Maalivahti,27.2.2003,FIN,"Turku, FIN",18,186,90,L
+34398911,"Meriläinen, Leevi",Kärpät,Maalivahti,13.8.2002,FIN,"Oulu, FIN",18,190,81,L
+32637771,"Vuorio, Emil",TPS,Maalivahti,5.9.2002,FIN,"Salo, FIN",18,184,78,L
+34264401,"Jatkola, Juha",KalPa,Maalivahti,12.9.2002,FIN,"Kuopio, FIN",18,185,80,L
+30793895,"Parviainen, Oskari",Pelicans,Maalivahti,7.11.2001,FIN,"Lahti, FIN",19,186,83,L
+32581335,"Korhonen, Rasmus",Ässät,Maalivahti,22.10.2002,FIN,"Oulu, FIN",18,195,83,L
+31877419,"Räihä, Riku",KooKoo,Maalivahti,20.1.2001,FIN,"Tampere, FIN",20,185,83,R
+32629051,"Markkanen, Juho",SaiPa,Maalivahti,6.4.2002,FIN,"Edmonton, AB, CAN",19,187,70,L
+23451584,"Tirronen, Rasmus",TPS,Maalivahti,9.11.1990,FIN,"Kirkkonummi, FIN",30,191,92,L
+100030776,"Dostal, Lukas",Ilves,Maalivahti,22.6.2000,CZE,"Brno, CZE",20,186,79,L
+31267715,"Randelin, Eetu",Jukurit,Maalivahti,12.11.2001,FIN,"Espoo, FIN",19,182,84,L
+33502782,"Piiroinen, Kari",Tappara,Maalivahti,1.7.2001,FIN,"Helsinki, FIN",19,186,80,L
+32309559,"Tikkanen, Henrik",KalPa,Maalivahti,28.9.2000,FIN,"Lohja, FIN",20,203,90,L
+22861900,"Perhonen, Samu",KalPa,Maalivahti,7.3.1993,FIN,"Jämsänkoski, FIN",28,196,94,L
+23468166,"Tolvanen, Atte",Ässät,Maalivahti,23.11.1994,FIN,"Vihti, FIN",26,184,85,L
+22322342,"Laurikainen, Eetu",HPK,Maalivahti,1.2.1993,FIN,"Jyväskylä, FIN",28,183,88,L
+27692297,"Parkkinen, Niko",JYP,Maalivahti,26.4.1999,FIN,"Jyväskylä, FIN",22,191,84,L
+31635062,"Salminen, Oskari",KooKoo,Maalivahti,22.9.1999,FIN,"Kotka, FIN",21,195,99,L
+23035023,"Reijola, Rasmus",Sport,Maalivahti,26.11.1992,FIN,"Vantaa, FIN",28,192,94,L
+32498965,"Annunen, Justus",Kärpät,Maalivahti,11.3.2000,FIN,"Kempele, FIN",21,193,94,L
+29933802,"Patrikainen, Jasper",Pelicans,Maalivahti,1.7.2000,FIN,"Lahti, FIN",20,185,80,L
+40005288,"Aho, Karri",Ilves,Vasen puolustaja,6.9.2002,FIN,"Tampere, FIN",18,186,84,L
+30616480,"Heikkala, Ville",Kärpät,Vasen laitahyökkääjä,13.11.1999,FIN,"Oulu, FIN",21,170,75,L
+40035616,"Hrachovina, Dominik",Tappara,Maalivahti,29.8.1994,CZE,"Brno, CZE",26,181,85,L
+60343378,"Rybár, Patrik",Kärpät,Maalivahti,9.11.1993,SVK,"Skalica, SVK",27,190,86,L
+60455476,"Karejev, Andrei",TPS,Maalivahti,19.11.1994,RUS,"Moscow, RUS",26,183,72,L
+60456747,"Tomek, Matej",KalPa,Maalivahti,24.5.1997,SVK,"Bratislava, SVK",23,191,83,L
+27682964,"Lehtinen, Lassi",Lukko,Maalivahti,25.2.1999,FIN,"Lahti, FIN",22,183,76,L
+60476681,"Söderström, Linus",Ässät,Maalivahti,23.8.1996,SWE,"Stockholm, SWE",24,194,90,L
+21851801,"Järvinen, Mika",Jukurit,Maalivahti,15.11.1988,FIN,"Hattula, FIN",32,177,85,L
+24555926,"Kilpeläinen, Eero",KalPa,Maalivahti,7.5.1985,FIN,"Juva, FIN",35,182,78,L
+27776919,"Iso-Mustajärvi, Tomi",SaiPa,Keskushyökkääjä,7.5.1992,FIN,"Tampere, FIN",28,188,87,L
+24546168,"Kolppanen, Ville",Ilves,Maalivahti,5.9.1992,FIN,"Vaasa, FIN",28,185,89,L
+29924154,"Vehviläinen, Veini",JYP,Maalivahti,13.2.1997,FIN,"Jyväskylä, FIN",24,184,79,L
+60487471,"Lambos, Carson",JYP,Vasen puolustaja,14.1.2003,CAN,"Winnipeg, MB, CAN",18,185,87,L
+60508537,"Green, Luke",Sport,Vasen puolustaja,12.1.1998,CAN,"Halifax, NS, CAN",23,185,85,R
+29935596,"Laitamäki, Elias",TPS,Vasen puolustaja,21.8.2000,FIN,"Seinäjoki, FIN",20,188,94,L
+32764000,"Korkka, Onni",Lukko,Oikea puolustaja,28.4.2001,FIN,"Pori, FIN",20,187,87,L
+32212769,"Pietilä, Noel",Lukko,Vasen puolustaja,3.8.2000,FIN,"Hyvinkää, FIN",20,174,72,L
+28547299,"Kemppainen, Samuel",Jukurit,Oikea puolustaja,28.6.2000,FIN,"Oulunsalo, FIN",20,180,80,L
+40055674,"Sarell, Aapo",SaiPa,Vasen puolustaja,31.7.2003,FIN,"Lappeenranta, FIN",17,185,85,L
+30013562,"Jokinen, Jere",HPK,Oikea laitahyökkääjä,9.4.2000,FIN,"Hämeenlinna, FIN",21,189,84,R
+29915053,"Niku, Tomi",JYP,Vasen puolustaja,3.10.2001,FIN,"Jyväskylä, FIN",19,174,70,L
+31770891,"Markkula, Miro",Lukko,Keskushyökkääjä,26.7.2001,FIN,"Ylöjärvi, FIN",19,177,71,L
+25489224,"Tuulola, Eetu",SaiPa,Oikea laitahyökkääjä,17.3.1998,FIN,"Hämeenlinna, FIN",23,190,98,R
+31317982,"Linjala, Miiro",Jukurit,Vasen laitahyökkääjä,8.10.2000,FIN,"Jyväskylä, FIN",20,175,76,L
+60508578,"Rockwood, Adam",Ilves,Keskushyökkääjä,22.9.1995,CAN,"Coquitlam, BC, CAN",25,178,84,L
+32675788,"Mäkiaho, Daniel",HPK,Keskushyökkääjä,4.5.2001,FIN,"Espoo, FIN",19,187,76,L
+32107434,"Rikkilä, Hugo",SaiPa,Oikea puolustaja,8.5.2001,FIN,"Espoo, FIN",19,182,83,L
+32527917,"Hyry, Arttu",Kärpät,Oikea laitahyökkääjä,6.4.2001,FIN,"Oulu, FIN",20,187,95,R
+22504856,"Mankinen, Jesse",HPK,Oikea laitahyökkääjä,20.5.1991,FIN,"Lappeenranta, FIN",29,177,82,R
+29065479,"Walli, Juuso",Ässät,Vasen puolustaja,3.7.1996,FIN,"Tampere, FIN",24,195,106,L
+23805761,"Ylitalo, Eemeli",Sport,Vasen puolustaja,22.2.1998,FIN,"Kauhava, FIN",23,183,92,L
+30575699,"Kalajanniska, Oskari",JYP,Oikea laitahyökkääjä,18.9.1999,FIN,"Haapajärvi, FIN",21,182,76,L
+60454984,"Karlkvist, Patrik",Sport,Oikea laitahyökkääjä,1.3.1992,SWE,"Trosa, SWE",29,186,98,R
+40009767,"Pulli, Valtteri",TPS,Vasen puolustaja,13.3.2001,FIN,"Turku, FIN",20,197,95,L
+28019536,"And, Terry",HIFK,Oikea laitahyökkääjä,7.12.1997,FIN,"Nurmijärvi, FIN",23,174,72,R
+24319557,"Forsblom, Saku",Jukurit,Oikea puolustaja,23.11.1997,FIN,"Mikkeli, FIN",23,178,72,L
+31578145,"Mäenpää, Juuso",KalPa,Keskushyökkääjä,29.4.2002,FIN,"Helsinki, FIN",19,169,67,L
+21685718,"Huttunen, Otto",KalPa,Oikea puolustaja,7.5.1991,FIN,"Iisalmi, FIN",29,190,97,R
+31332145,"Kuusela, Kimi",JYP,Vasen puolustaja,26.4.2001,FIN,"Jyväskylä, FIN",20,180,75,L
+29528916,"Niskala, Jaakko",Kärpät,Oikea puolustaja,17.2.1999,FIN,"Rovaniemi, FIN",22,186,82,R
+32167539,"Riihinen, Petteri",Pelicans,Oikea puolustaja,14.7.2001,FIN,"Mäntsälä, FIN",19,184,78,R
+30492028,"Räsänen, Eemeli",HPK,Vasen puolustaja,6.3.1999,FIN,"Joensuu, FIN",22,200,100,R
+27574920,"Tyni, Paavo",HPK,Oikea puolustaja,13.1.1997,FIN,"Hattula, FIN",24,178,79,L
+33150613,"Jurmo, Joni",JYP,Vasen puolustaja,19.4.2002,FIN,"Espoo, FIN",19,192,85,L
+30375718,"Grönblom, Tom",Jukurit,Vasen puolustaja,29.2.2000,FIN,"Espoo, FIN",21,178,80,L
+21819267,"Junttila, Julius",Jokerit,Vasen laitahyökkääjä,15.8.1991,FIN,"Oulu, FIN",29,179,81,L
+60342562,"Krejcik, Jakub",Jokerit,Oikea puolustaja,25.6.1991,CZE,"Praha, CZE",29,187,90,L
+40435937,"Budish, Zach",TPS,Keskushyökkääjä,9.5.1991,USA,"Edina, MN, USA",29,191,101,R
+23837234,"Friman, Niklas",Jokerit,Vasen puolustaja,30.8.1993,FIN,"Rauma, FIN",27,189,88,L
+22357760,"Lehtonen, Matias",Tappara,Oikea laitahyökkääjä,4.8.1995,FIN,"Turku, FIN",25,183,79,L
+25443752,"Vartiainen, Taavi",Ilves,Oikea laitahyökkääjä,30.6.1994,FIN,"Lahti, FIN",26,187,91,L
+25012824,"Petrell, Lennart",HIFK,Vasen laitahyökkääjä,13.4.1984,FIN,"Helsinki, FIN",37,191,95,L
+29584248,"Valtola, Olli",TUTO Hockey,Keskushyökkääjä,2.4.1999,FIN,"Turku, FIN",22,185,81,L
+30013384,"Seppälä, Erkka",HPK,Keskushyökkääjä,19.5.1999,FIN,"Hämeenlinna, FIN",21,174,78,L
+24178578,"Ruotsi, Jesse",Lukko,Keskushyökkääjä,21.6.1999,FIN,"Luumäki, FIN",21,183,74,L
+30136368,"Ek, Aleksi",SaPKo,Vasen puolustaja,21.10.1998,FIN,"Heinola, FIN",22,189,94,L
+30932931,"Palojärvi, Antti",KooKoo,Vasen puolustaja,18.1.1999,FIN,"Kouvola, FIN",22,187,85,L
+31425081,"Myllylä, Wiljami",HIFK,Oikea laitahyökkääjä,9.4.2001,FIN,"Haapajärvi, FIN",20,182,73,R
+32579127,"Rannisto, Jasper",TUTO Hockey,Oikea puolustaja,28.11.2000,FIN,"Helsinki, FIN",20,185,80,L
+30729937,"Suhonen, Pekka",KalPa,Vasen laitahyökkääjä,28.6.2000,FIN,"Kuopio, FIN",20,182,81,L
+31421441,"Lausniemi, Arttu",Ässät,Oikea laitahyökkääjä,8.9.2001,FIN,"Vammala, FIN",19,172,78,L
+31915960,"Taponen, Roope",HIFK,Maalivahti,14.3.2001,FIN,"Espoo, FIN",20,184,80,L
+30040593,"Soukka, Severi",Ässät,Maalivahti,13.1.2001,FIN,"Oulu, FIN",20,180,76,L
+30798997,"Aalto, Tuomas",HPK,Maalivahti,30.9.2000,FIN,"Hattula, FIN",20,175,76,L
+30731093,"Hämäläinen, Janne",SaPKo,Vasen laitahyökkääjä,12.2.1998,FIN,"Nurmijärvi, FIN",23,176,85,L
+40005170,"Keinänen, Tomas",TPS,Maalivahti,21.8.2001,FIN,"Turku, FIN",19,186,79,L
+29948198,"Anttila, Eetu",TPS,Maalivahti,5.7.1999,FIN,"Naantali, FIN",21,188,89,L
+31639314,"Kulmala, Lauri",Ässät,Keskushyökkääjä,3.2.1999,FIN,"Porvoo, FIN",22,188,89,L
+28731241,"Pihlajamäki, Valtteri",Ässät,Oikea laitahyökkääjä,28.7.1996,FIN,"Kiikoinen, FIN",24,177,95,R
+32754065,"Hirvonen, Konsta",Jokerit,Keskushyökkääjä,1.11.2000,FIN,"Vantaa, FIN",20,180,75,L
+60434669,"Vrhel, Stanislav",Pelicans,Oikea laitahyökkääjä,20.12.2002,CZE,"Chomutov, CZE",18,184,79,L
+32383850,"Satosaari, Patrik",Pelicans,Vasen puolustaja,18.6.2001,FIN,"Lahti, FIN",19,178,78,L
+29477410,"Larinmaa, Jesper",TUTO Hockey,Vasen laitahyökkääjä,9.5.1998,FIN,"Turku, FIN",22,181,90,L
+28897266,"Arola, Juuso",Hokki,Oikea puolustaja,21.8.1999,FIN,"Lahti, FIN",21,183,78,L
+31765398,"Kaskinen, Olli",TPS,Vasen puolustaja,27.1.1999,FIN,"Raisio, FIN",22,184,85,L
+31809869,"Heikkilä, Juuso",Pelicans,Vasen laitahyökkääjä,3.6.2000,FIN,"Haapavesi, FIN",20,182,78,L
+24463542,"Ilomäki, Arttu","Luleå HF, SWE",Keskushyökkääjä,12.6.1991,FIN,"Tampere, FIN",29,182,89,R
+23521977,"Tyrväinen, Juhani","Luleå HF, SWE",Keskushyökkääjä,11.9.1990,FIN,"Seinäjoki, FIN",30,181,86,L
+100025912,"Texier, Alexandre",KalPa,Oikea laitahyökkääjä,13.9.1999,FIN,"Grenoble, FRA",21,185,87,L
+24177618,"Varttinen, Matias",Ketterä,Oikea laitahyökkääjä,19.7.1995,FIN,"Eura, FIN",25,169,70,R
+28642754,"Koponen, Marlo",Ketterä,Vasen puolustaja,13.12.1986,FIN,"Imatra, FIN",34,184,87,L
+28552909,"Mäkitalo, Roope",Ketterä,Keskushyökkääjä,22.9.1998,FIN,"Lahti, FIN",22,174,79,L
+28934365,"Kuusisto, Jaakko",Hokki,Vasen laitahyökkääjä,29.8.1997,FIN,"Hyvinkää, FIN",23,176,83,L
+27889767,"Savolainen, Joonas",SaPKo,Keskushyökkääjä,18.6.1997,FIN,"Turku, FIN",23,184,86,L
+31329598,"Järvitalo, Tommi",Kärpät,Keskushyökkääjä,15.12.1999,FIN,"Oulu, FIN",21,178,73,L
+28777551,"Jantunen, Jonne",TUTO Hockey,Oikea laitahyökkääjä,9.8.1996,FIN,"Lahti, FIN",24,182,80,R
+28976721,"Kotkaniemi, Kasperi",SaPKo,Maalivahti,2.3.1999,FIN,"Pori, FIN",22,177,79,L
+30033458,"Torikka, Kasperi",RoKi,Vasen puolustaja,8.4.1999,FIN,"Ristiina, FIN",22,177,79,L
+21295959,"Aitola, Olli",KeuPa HT,Vasen puolustaja,3.2.1992,FIN,"Jyväskylä, FIN",29,186,84,L
+29620597,"Pylkkänen, Eetu",RoKi,Oikea puolustaja,29.4.1998,FIN,"Espoo, FIN",23,182,88,R
+30993527,"Troshin, Daniil",Hokki,Vasen puolustaja,18.2.1999,FIN,"Tampere, FIN",22,193,89,L
+27746761,"Jukuri, Samuel",Jokerit,Maalivahti,13.5.1996,FIN,"Kiiminki, FIN",24,184,78,L
+30041411,"Nevasaari, Arttu",TPS,Keskushyökkääjä,23.1.2000,FIN,"Oulu, FIN",21,180,83,R
+30136517,"Suni, Sami",KeuPa HT,Maalivahti,2.12.1998,FIN,"Heinola, FIN",22,185,94,L
+29606838,"Isiguzo, Bernard",Pelicans,Oikea puolustaja,2.8.1999,FIN,"Helsinki, FIN",21,182,85,R
+30013834,"Haaparanta, Mikko",Ketterä,Vasen laitahyökkääjä,7.9.1997,FIN,"Imatra, FIN",23,190,91,L
+34399525,"Arrak, Robert",Lukko,Oikea laitahyökkääjä,1.4.1999,FIN,"Tallinna, EST",22,187,88,L
